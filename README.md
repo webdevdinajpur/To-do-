@@ -1,5 +1,5 @@
-## To do
-- **View demo:** https://todo-rgb.netlify.app/   
+## To do 
+- **Demo:** https://todo-rgb.netlify.app/
 
 ---
 
